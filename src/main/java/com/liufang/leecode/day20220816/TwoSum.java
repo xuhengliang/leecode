@@ -5,9 +5,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author hengliang.xu@patpat.com
+ * @author hengliang.xu
  * @decription
- * @date 2022-08-16-12-08
+ * @date 2022-08-16
  */
 public class TwoSum {
 
